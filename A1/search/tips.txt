@@ -1,0 +1,6 @@
+/** WRITE YOUR TIPS IN THIS FILE **/
+1. Read through search.py and sokoban.py. You have to understand the structure of the search engine and the state to work on this project.
+
+2. Try to play sokoban before writing your heuristic function. Try to find the pattern between the robots, boxes and storages of the minimun cost solution.
+
+3. Try and find pattern the dead-state (which the state that cannot become a goal state). Prune the dead-states from the search to increase the speed of the search.
